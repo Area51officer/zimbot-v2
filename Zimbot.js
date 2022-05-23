@@ -3553,11 +3553,15 @@ case 'anonymouschatmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `SAM BOT INC`,
+
                             hydratedButtons: [{
+
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+
+                                    displayText: 'Free Netflix',
+
+                                    url: 'https://chat.whatsapp.com/HeICMJvQyN3KVmw9iM1JgM'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3578,10 +3582,8 @@ case 'sistemmenu': {
    ▌⚙️ ${prefix}mute
    ▌⚙️ ${prefix}antiwame
    ▙▰▰▰▰▰▰▰▰▰▰▰⧁
-     
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+    
+   
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3589,11 +3591,15 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `SAM BOT INC`,
+
                             hydratedButtons: [{
+
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+
+                                    displayText: 'Free Netflix',
+
+                                    url: 'https://chat.whatsapp.com/HeICMJvQyN3KVmw9iM1JgM'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3621,9 +3627,9 @@ break
       ▋🎀 ${prefix}bcall
       ▙▬▬▬▬▬▬▬▬▬▬▬⧁
       
-      ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-      ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-      + 2 7 6 3 4 0 9 0 2 0 3
+      
+      
+      
   `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3631,11 +3637,11 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `SAM BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Free Netflix',
+                                    url: 'https://chat.whatsapp.com/HeICMJvQyN3KVmw9iM1JgM'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3675,9 +3681,8 @@ case 'nsfwmenu': {
   ▋              
   ▙▰▰▰▰▰▰▰▰▰▰▰⧁
   
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   
+   
    
   `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -3689,8 +3694,8 @@ case 'nsfwmenu': {
                             hydratedFooterText: `ZIM BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Free Netflix,
+                                    url: 'https://chat.whatsapp.com/HeICMJvQyN3KVmw9iM1JgM'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3713,14 +3718,14 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
   
   *ZIM BOT WELCOMES YOU* ${pushname}
   
-  ╭▬▬❪ *ZIM BOT INC*❫▬▬▬
+  ╭▬▬❪ *SAM BOT INC*❫▬▬▬
   ▍🏮 *LIBRARY:* Baileys-md
   ▍┃
   ▍🏮𝗕𝗢𝗧𝗡𝗔𝗠𝗘: ${global.botnma}
   ▍┃
   ▍🏮𝗢𝗪𝗡𝗘𝗥𝗡𝗔𝗠𝗘: ${global.ownernma}
   ▍┃
-  ▍🏮𝗡𝗨𝗠𝗕𝗘𝗥: ${global.owner}
+  ▍🏮𝗡𝗨𝗠𝗕 : wa.me/14318136969
   ▋┃
   ▋🏮𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠 : ${os.platform()}
   ▙▄▄▄▄▄▄▄▄▄▄▄▅▆▇█
@@ -3997,9 +4002,8 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
    ▋🎀 ${prefix}profile
    ▙▬▬▬▬▬▬▬▬▬▬▬⧁
    
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6  3  4  0  9  0  2  0  3
+   
+  
    `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -4007,11 +4011,11 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `SAM BOT`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    displayText: 'Free Netflix',
+                                    url: 'https://chat.whatsapp.com/HeICMJvQyN3KVmw9iM1JgM'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4029,8 +4033,8 @@ case 'tqtt':
 reply(`
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  
-   *Thanks for choosing ZIM BOT INC
-SUBSCRIBE🌟* https://youtube.com/c/DRIPSOFC *DRIPS OFC*
+   *Thanks for choosing SAM BOT
+SUBSCRIBE* https://youtu.be/dQw4w9WgXcQ *Thanks*
 
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
