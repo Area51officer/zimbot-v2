@@ -33,27 +33,27 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['14318136969',''] //owner number +27634090203
+global.pemilik = ['14318136969'] //owner number +27634090203
+global.premium = ['14318136969'] //premium number +27634090203
+global.pengguna = 'Sam' //username
+global.footer = 'SAM BOT'
+global.botnma = 'SAM BOT' //bot name
+global.ownernma = 'Sam Kira Kun' //owner name
+global.packname = 'SamBot' //sticker package name
+global.author = '+14318136969' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '🔵' //sp
+global.sp = '✨' //sp
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*sam bot  must be admin first!*',
+    owner: '*this feature is only for sambot owner*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment sam bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
 global.limitawal = {
